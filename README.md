@@ -15,11 +15,11 @@
 
 <br>
 
-![Split Landing Page]()
+![Split Landing Page](images/split-landing-page.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Split-Landing-Page/)
 
 <br>
 
